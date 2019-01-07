@@ -1,0 +1,4 @@
+*.pyc
+venv
+haha.csv
+dump.rdb
